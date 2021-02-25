@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+hello{
+  text-align: center;
+}
+.map-wrapper{
+  text-align: center;
+}
+.googlemap{
+  width: 70%;
+  margin:auto;
+}
